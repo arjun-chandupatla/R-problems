@@ -1,0 +1,2 @@
+library(palmerpenguins)
+nrow(penguins)
