@@ -4,7 +4,7 @@ library(penguins)
 ggplot(
     data = penguins,
     mapping = aes(x = bill_length_mm, y = bill_depth_mm)
-) +
+) +    # Following is formatting, color, etc.
     geom_point(mapping = aes(shape = species, color = species)) +
     geom_smooth(method = "lm") +
     labs(
