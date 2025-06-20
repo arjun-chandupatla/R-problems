@@ -1,4 +1,4 @@
-# There is a weak negative linear relationship
+# There is a weak negative linear relationship between bill depth and bill length
 
 library(penguins)
 
