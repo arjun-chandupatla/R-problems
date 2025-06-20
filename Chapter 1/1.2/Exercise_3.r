@@ -1,3 +1,5 @@
+# There is a weak negative linear relationship
+
 library(penguins)
 
 # Create the plot
