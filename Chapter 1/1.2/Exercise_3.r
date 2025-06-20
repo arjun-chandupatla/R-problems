@@ -1,3 +1,5 @@
+library(penguins)
+
 ggplot(
     data = penguins,
     mapping = aes(x = bill_length_mm, y = bill_depth_mm)
