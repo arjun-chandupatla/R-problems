@@ -1,4 +1,5 @@
 # There is a weak negative linear relationship between bill depth and bill length
+# However, the data is mostly clustered around each species, with three clusters
 
 library(penguins)
 
